@@ -1,0 +1,19 @@
+002020:   B9*copwtdxztgp, 0.
+000150:  G4!qdrulllcbsfh, 1, 000007.
+987654:  E8@flcsdthnqevk, 0.
+222222:  H6%bqihuizafbjh, 0.
+111111: M1*pykxmpndnnztd, 0.
+000666: J5~eonvexjovzxwc, 1, 000007.
+000007: P9@tdytwffzclnib, 3, 654321, 000150, 000666.
+654321: M3#hlajoetbkwltz, 1, 000007.
+123456:         S8%obdhg, 0.
+Connections of pairs of users:
+1. 000666 and 000111 cannot be connected.
+2. 000666, 000111
+3. 123456, 000007, 000150, 000111, 654321
+4. 123456, 000007, 654321
+5. 111111 and 000111 cannot be connected.
+6. 987654, 000111, 654321
+7. 123456 and 654321 cannot be connected.
+8. 987654, 000111, 000150, 000007, 654321
+9. 987654 and 654321 cannot be connected.
