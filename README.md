@@ -1,5 +1,5 @@
 # ENEE150
-This repository contains the projects completed in the class ENEE150: Intermediate Programming Concepts for Engineers
+This repository contains the projects completed in the class ENEE150: Intermediate Programming Concepts for Engineers.
 
 ## Project 1
 This project will implement and compare the efficiencies of 4 sorting algorithims: bubble sort, insertion sort, merge sort, and quick sort.
