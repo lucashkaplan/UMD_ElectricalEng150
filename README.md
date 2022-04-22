@@ -2,7 +2,7 @@
 This repository contains the projects completed in the class ENEE150: Intermediate Programming Concepts for Engineers.
 
 ## Project 1
-This project will implement and compare the efficiencies of 4 sorting algorithims: bubble sort, insertion sort, merge sort, and quick sort.
+This project implements and compares the efficiencies of 4 sorting algorithims: bubble sort, insertion sort, merge sort, and quick sort.
 The efficiency of a given algorithim is measured by the average number of comparisons of array elements and the average number of copies to and from the array(s) in use.
 
 ## Project 2
