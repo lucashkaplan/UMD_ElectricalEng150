@@ -17,10 +17,10 @@ information to an output file in the following format: \
 This project is an extension of the Tiny Social Network developed in project 2. In this version, each user is given a random password, and the user is given an additional
 management option: finding a connection between users. The input file follows the same format as project 2, but the output file now follows the following format:  \
   
-(UID): <password>, <no. of friends>, <Friend 1 UID>, <Friend 2 UID>, ... \
-  ... \
-(UID): <password>, <no. of friends>, <Friend 1 UID>, <Friend 2 UID>, ... \
-Connections of pairs of users: \
-1. <UID 1>, <connecting UID 1>, <connecting UID 2>, ..., <UID 2> \
-2. <UID 1> and <UID 2> cannot be connected. \
-  ... \
+(UID): <password>, <no. of friends>, <Friend 1 UID>, <Friend 2 UID>, ...  \
+  ...  \
+(UID): <password>, <no. of friends>, <Friend 1 UID>, <Friend 2 UID>, ...  \
+Connections of pairs of users:  \
+1. <UID 1>, <connecting UID 1>, <connecting UID 2>, ..., <UID 2>  \
+2. <UID 1> and <UID 2> cannot be connected.  \
+  ...  \
